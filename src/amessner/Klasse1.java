@@ -6,6 +6,7 @@ public class Klasse1 {
 		System.out.println("Branch01 erzeugt");
 		System.out.println("Branch02 erzeugt");
 		System.out.println("Version01 erzeugt");
+		System.out.println("Branch02.1 erzeugt");
 	}
 
 }
